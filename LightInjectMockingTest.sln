@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightInjectMockingTest", "LightInjectMockingTest\LightInjectMockingTest.csproj", "{32204E3F-E73B-436A-B57B-27C97F8048EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightInjectMockingTest.Tests", "LightInjectMockingTest.Tests\LightInjectMockingTest.Tests.csproj", "{580C03D3-CBBA-47DE-9834-F50A6D57C949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightInjectMockingTest.Console", "LightInjectMockingTest.Console\LightInjectMockingTest.Console.csproj", "{7781B328-203B-4A64-BA63-CF227142E97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32204E3F-E73B-436A-B57B-27C97F8048EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32204E3F-E73B-436A-B57B-27C97F8048EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32204E3F-E73B-436A-B57B-27C97F8048EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32204E3F-E73B-436A-B57B-27C97F8048EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580C03D3-CBBA-47DE-9834-F50A6D57C949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580C03D3-CBBA-47DE-9834-F50A6D57C949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580C03D3-CBBA-47DE-9834-F50A6D57C949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580C03D3-CBBA-47DE-9834-F50A6D57C949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7781B328-203B-4A64-BA63-CF227142E97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7781B328-203B-4A64-BA63-CF227142E97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7781B328-203B-4A64-BA63-CF227142E97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7781B328-203B-4A64-BA63-CF227142E97B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
